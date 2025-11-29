@@ -1,0 +1,26 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>AI Prescription Interaction Classifier</title>
+</head>
+<body>
+    <h1>Prescription Interaction Risk Classifier</h1>
+    <p>Enter two drug names to estimate interaction severity.</p>
+
+    {% if error %}
+        <p style="color:red;">{{ error }}</p>
+    {% endif %}
+
+    <form method="post">
+        <label>Drug 1:
+            <input type="text" name="drug1">
+        </label><br><br>
+        <label>Drug 2:
+            <input type="text" name="drug2">
+        </label><br><br>
+        <button type="submit">Check Interaction</button>
+    </form>
+</body>
+</html>

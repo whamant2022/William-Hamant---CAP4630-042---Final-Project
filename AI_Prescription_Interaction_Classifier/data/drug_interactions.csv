@@ -1,0 +1,101 @@
+drug1,drug2,description,severity
+Aspirin,Warfarin,Major bleeding risk due to combined anticoagulant and antiplatelet effects.,Severe
+Clopidogrel,Omeprazole,"Omeprazole inhibits CYP2C19, reducing antiplatelet activity of clopidogrel.",Severe
+Tramadol,Sertraline,Risk of serotonin syndrome from combined serotonergic mechanisms.,Severe
+Warfarin,Fluconazole,"Fluconazole inhibits CYP enzymes, raising warfarin levels and bleeding risk.",Severe
+Sildenafil,Nitroglycerin,Dangerous hypotension due to synergistic vasodilation.,Severe
+Lithium,NSAIDs,NSAIDs reduce lithium clearance leading to possible toxicity.,Severe
+Theophylline,Ciprofloxacin,Ciprofloxacin inhibits theophylline metabolism causing toxic accumulation.,Severe
+Digoxin,Amiodarone,Amiodarone increases serum digoxin concentration risking toxicity.,Severe
+Carbamazepine,Erythromycin,Erythromycin inhibits CYP3A4 raising carbamazepine levels.,Severe
+MAOIs,SSRIs,Combination may cause life‑threatening serotonin syndrome.,Severe
+Linezolid,SSRI,Serotonin syndrome risk due to MAOI‑like properties of linezolid.,Severe
+Rifampin,Warfarin,Rifampin induces CYP enzymes drastically reducing warfarin effectiveness.,Severe
+Clarithromycin,Colchicine,"Clarithromycin inhibits metabolism of colchicine, causing toxicity.",Severe
+Amiodarone,Sotalol,Excessive QT prolongation increasing arrhythmia risk.,Severe
+Methotrexate,Trimethoprim,Additive folate antagonism may cause marrow suppression.,Severe
+Statins,Strong CYP3A4 inhibitors,Marked increase in statin levels leading to rhabdomyolysis risk.,Severe
+Warfarin,Bactrim,Sulfamethoxazole-trimethoprim elevates warfarin effect increasing bleeding.,Severe
+Phenelzine,Meperidine,Combination may precipitate severe serotonin toxicity.,Severe
+Azathioprine,Allopurinol,Allopurinol increases azathioprine levels leading to bone marrow toxicity.,Severe
+Macrolides,Terfenadine,QT prolongation may cause life‑threatening arrhythmias.,Severe
+Ketoconazole,Dofetilide,Marked QT prolongation with torsades de pointes risk.,Severe
+Tetracycline,Isotretinoin,Risk of pseudotumor cerebri from increased intracranial pressure.,Severe
+Cisapride,CYP3A4 inhibitors,Dangerous QT prolongation and arrhythmia risk.,Severe
+Alcohol,Metronidazole,Disulfiram-like reaction causing severe nausea and cardiovascular stress.,Severe
+Valproate,Lamotrigine,Valproate inhibits lamotrigine metabolism leading to severe rash risk.,Severe
+Warfarin,Metronidazole,Metronidazole increases warfarin effects raising bleeding risk.,Severe
+Tramadol,MAOIs,Risk of extreme serotonin syndrome and hypertensive crisis.,Severe
+Oxycodone,Benzodiazepines,High risk of fatal respiratory depression.,Severe
+Methadone,CYP3A4 inhibitors,Increased methadone levels may cause cardiac arrhythmias.,Severe
+Fentanyl,CYP3A4 inhibitors,Dramatically elevated fentanyl concentrations causing respiratory arrest.,Severe
+Amlodipine,Metoprolol,Enhanced blood pressure reduction and bradycardia risk.,Moderate
+Lisinopril,Furosemide,Additive hypotensive effects especially after initial dosing.,Moderate
+Diltiazem,Simvastatin,Diltiazem raises simvastatin levels via CYP3A4 inhibition.,Moderate
+Sertraline,Metoprolol,SSRIs inhibit metabolism of metoprolol increasing levels.,Moderate
+Losartan,Ibuprofen,NSAIDs may blunt antihypertensive effect of losartan.,Moderate
+Prednisone,NSAIDs,Combined use heightens GI irritation and ulcer risk.,Moderate
+Metformin,Cimetidine,Cimetidine may decrease renal clearance of metformin.,Moderate
+Amlodipine,Simvastatin,"Amlodipine increases exposure to simvastatin, dose limit advised.",Moderate
+Verapamil,Atenolol,Risk of excessive bradycardia and AV block.,Moderate
+Grapefruit Juice,Calcium Channel Blockers,Grapefruit inhibits CYP3A4 raising drug concentrations.,Moderate
+Hydrochlorothiazide,ACE inhibitors,Enhanced hypotensive effect especially initially.,Moderate
+Fluoxetine,Tricyclic antidepressants,Fluoxetine increases TCA levels via CYP inhibition.,Moderate
+Propranolol,Albuterol,Beta‑blockers reduce the bronchodilator effect of albuterol.,Moderate
+Nifedipine,Rifampin,Rifampin induces metabolism reducing nifedipine efficacy.,Moderate
+Lamotrigine,Oral Contraceptives,OCs increase lamotrigine clearance reducing effectiveness.,Moderate
+Cyclosporine,NSAIDs,Combined nephrotoxicity risk.,Moderate
+Salmeterol,Fluconazole,Fluconazole can enhance salmeterol systemic exposure.,Moderate
+Metoprolol,Fluoxetine,Fluoxetine inhibits CYP2D6 raising metoprolol levels.,Moderate
+Allopurinol,ACE inhibitors,Rare hypersensitivity risk increased.,Moderate
+Clonidine,Beta‑blockers,Risk of rebound hypertension if clonidine stopped abruptly.,Moderate
+Tamsulosin,Sildenafil,Additive blood pressure‑lowering effect.,Moderate
+Spironolactone,ACE inhibitors,Risk of hyperkalemia with combined RAAS inhibition.,Moderate
+Sertraline,Risperidone,Sertraline can raise risperidone levels via enzyme inhibition.,Moderate
+Atenolol,Calcium Channel Blockers,Risk of bradycardia and AV conduction delay.,Moderate
+Doxycycline,Warfarin,Doxycycline may potentiate warfarin effect.,Moderate
+Topiramate,Oral Contraceptives,Topiramate may slightly reduce contraceptive efficacy.,Moderate
+Carvedilol,Digoxin,Increased digoxin concentration possible.,Moderate
+Venlafaxine,Tramadol,Combined serotonergic effect increases serotonin syndrome risk.,Moderate
+Azithromycin,Statins,Small increased risk of statin toxicity.,Moderate
+Escitalopram,Omeprazole,Omeprazole may elevate escitalopram levels.,Moderate
+Lorazepam,Opioids,Additive sedation and respiratory depression risk.,Moderate
+Metoprolol,Diphenhydramine,Diphenhydramine inhibits CYP2D6 raising metoprolol levels.,Moderate
+Sulfamethoxazole,Phenytoin,May increase phenytoin levels due to enzyme interaction.,Moderate
+Clarithromycin,Calcium Channel Blockers,May enhance hypotensive effect.,Moderate
+Omeprazole,Citalopram,PPIs may increase citalopram exposure.,Moderate
+Acetaminophen,Ibuprofen,Common combination with no meaningful interaction.,Safe
+Amoxicillin,Acetaminophen,Safe coadministration with no significant interaction.,Safe
+Cetirizine,Ibuprofen,No significant pharmacological interaction.,Safe
+Vitamin C,Acetaminophen,No clinically relevant interaction.,Safe
+Gabapentin,Ibuprofen,No significant interaction noted.,Safe
+Azithromycin,Loratadine,Safe combination with no major effects.,Safe
+Levothyroxine,Acetaminophen,No harmful interaction known.,Safe
+Penicillin,Ibuprofen,No significant interaction.,Safe
+Amoxicillin,Loratadine,Safe; mechanisms do not interact.,Safe
+Fexofenadine,Acetaminophen,No meaningful interaction.,Safe
+Fluticasone,Cetirizine,Common allergy combo with no significant effects.,Safe
+Acetaminophen,Antacids,No harmful interaction at therapeutic doses.,Safe
+Melatonin,Ibuprofen,No clinically meaningful interaction.,Safe
+Amoxicillin,Diphenhydramine,Safe combination widely used.,Safe
+Naproxen,Acetaminophen,No major adverse interaction.,Safe
+Loratadine,Fluticasone,Safe allergy combination.,Safe
+Magnesium,Acetaminophen,No notable interaction.,Safe
+Penicillin,Vitamin C,Safe combination.,Safe
+Amoxicillin,Probiotics,Safe when timed appropriately.,Safe
+Ranitidine,Acetaminophen,No major interaction.,Safe
+Cetirizine,Vitamin C,Safe combination.,Safe
+Omega‑3,Acetaminophen,No adverse interaction documented.,Safe
+Calcium Carbonate,Ibuprofen,No harmful interaction.,Safe
+Probiotics,Ibuprofen,No meaningful interaction.,Safe
+Fluticasone,Saline Nasal Spray,No interaction.,Safe
+Docusate,Acetaminophen,Safe combination.,Safe
+Famotidine,Loratadine,Safe OTC combo.,Safe
+Glucosamine,Acetaminophen,No interaction.,Safe
+Vitamin D,Ibuprofen,No meaningful interaction.,Safe
+Acetaminophen,Cyclobenzaprine,Generally safe short‑term.,Safe
+Ibuprofen,Famotidine,Safe OTC combo.,Safe
+Fluconazole,Cetirizine,No meaningful interaction.,Safe
+Amoxicillin,Guaifenesin,Safe combination.,Safe
+Ondansetron,Acetaminophen,Safe combination.,Safe
+Melatonin,Acetaminophen,No meaningful interaction.,Safe

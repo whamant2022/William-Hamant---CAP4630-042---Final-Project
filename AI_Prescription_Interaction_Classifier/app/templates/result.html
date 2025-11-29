@@ -1,0 +1,17 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Interaction Result</title>
+</head>
+<body>
+    <h1>Interaction Result</h1>
+    <p><strong>Drug 1:</strong> {{ drug1 }}</p>
+    <p><strong>Drug 2:</strong> {{ drug2 }}</p>
+    <h2>Predicted Severity: {{ severity }}</h2>
+    <p>{{ message }}</p>
+
+    <a href="{{ url_for('index') }}">Check another pair</a>
+</body>
+</html>
