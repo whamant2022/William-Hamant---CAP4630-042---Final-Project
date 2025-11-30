@@ -16,12 +16,12 @@ The system:
 The app can be deployed and show matrix tables by using the Windows Command Prompt. 
 
 Enter the following command to install dependencies:
-py -m pip install -r requirements.txt
+- py -m pip install -r requirements.txt
 
 
-Once in the project file directory, navigate to the app folder by entering 'cd app' then start the Flask server by entering 'py app.py'
-The Command Prompt will display an http: link that will take you to the website for the app interface.
-To train the model, simply enter 'py -m src.train_model' while still in the project file directory.
+- Once in the project file directory, navigate to the app folder by entering 'cd app' then start the Flask server by entering 'py app.py'
+- The Command Prompt will display an http: link that will take you to the website for the app interface.
+- To train the model, simply enter 'py -m src.train_model' while still in the project file directory.
 
 ## Presentation Recording
 https://drive.google.com/file/d/1L-eYWgQXy2_oms0kqFbvyurtzmJ4IA4r/view?usp=sharing
