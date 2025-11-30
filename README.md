@@ -19,3 +19,4 @@ The Command Prompt will display an http: link that will take you to the website 
 To train the model, simply enter 'py -m src.train_model' while still in the project file directory.
 
 ## Presentation Recording
+https://drive.google.com/file/d/1L-eYWgQXy2_oms0kqFbvyurtzmJ4IA4r/view?usp=sharing
