@@ -16,7 +16,8 @@ The system:
 The app can be deployed and show matrix tables by using the Windows Command Prompt. 
 
 Enter the following command to install dependencies:
-- py -m pip install -r requirements.txt
+
+py -m pip install -r requirements.txt
 
 
 - Once in the project file directory, navigate to the app folder by entering 'cd app' then start the Flask server by entering 'py app.py'
